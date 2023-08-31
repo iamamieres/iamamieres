@@ -2,7 +2,7 @@
 # ¡Hola! Soy Iván Mieres
 
 ## Acerca de mí
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador de software con experiencia en una variedad de tecnologías. Mi objetivo es crear soluciones innovadoras y eficientes para los desafíos de programación.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador de software con experiencia en una variedad de tecnologías. Mi objetivo es crear soluciones innovadoras y eficientes para los desafíos de programación.
 
 ## Habilidades
 
@@ -20,12 +20,11 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
 ## Proyectos Destacados
-- [Proyecto 1](Enlace al proyecto) - Breve descripción del proyecto.
-- [Proyecto 2](Enlace al proyecto) - Breve descripción del proyecto.
+- [Proyecto 1]([Enlace al proyecto](https://iamamieres.github.io/sprint-calculadora/)) - Calculadora en Html desarrollada con Visual Studio Code.
 
 ## Contacto
 ¡Me encantaría conectarte contigo! Puedes encontrarme en las siguientes plataformas:
-- LinkedIn: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/iv%C3%A1n-mieres-294480161/)
+- LinkedIn: [Tu Perfil de LinkedIn]([https://www.linkedin.com/in/iv%C3%A1n-mieres-294480161/](https://www.linkedin.com/in/iv%C3%A1n-mieres-294480161/))
 - Correo electrónico: [iamamieres@gmail.com](mailto:iamamieres@gmail.com)
 
 ¡No dudes en contactarme para colaboraciones, discusiones o cualquier consulta relacionada con la programación!
