@@ -7,7 +7,7 @@
 </p>
 
 ## Acerca de mí
-¡Bienvenido a mi rincón en GitHub! Soy un desarrollador de software con un amor por la creatividad y la resolución de problemas. Mi misión es convertir ideas en código y crear soluciones que hagan la diferencia.
+¡Bienvenido a mi rincón en GitHub! Soy un desarrollador full stack de software con un amor por la creatividad y la resolución de problemas. Mi misión es convertir ideas en código y crear soluciones que hagan la diferencia.
 
 ## Habilidades
 
@@ -39,4 +39,6 @@
 - Correo electrónico: [iamamieres@gmail.com](mailto:iamamieres@gmail.com)
 
 ¡No dudes en contactarme para colaboraciones, discusiones o cualquier consulta relacionada con la programación!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamamieres&show_icons=true)
 
