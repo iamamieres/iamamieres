@@ -1,5 +1,5 @@
 <!-- Encabezado -->
-<h1 align="center">¡Hola! 👋 Soy [Iván Mieres]</h1>
+<h1 align="center">¡Hola! 👋 Soy Iván Mieres</h1>
 
 <p align="center">
   <a href=["Enlace a tu perfil de LinkedIn"](https://www.linkedin.com/in/iv%C3%A1n-mieres-294480161/)><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
@@ -31,8 +31,7 @@
 </p>
 
 ## Proyectos Destacados
-- [Proyecto 1](Enlace al proyecto) - Breve descripción del proyecto.
-- [Proyecto 2](Enlace al proyecto) - Breve descripción del proyecto.
+- [Calculadora on line]([Enlace al proyecto](https://iamamieres.github.io/sprint-calculadora/)) - Calculadora desarrollada con HTML
 
 ## Contacto
 ¡Me encantaría estar en contacto contigo! Puedes encontrarme en las siguientes plataformas:
