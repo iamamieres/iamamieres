@@ -9,6 +9,8 @@
 ### Lenguajes de Programación
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Frameworks y Herramientas
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -20,7 +22,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
 ## Proyectos Destacados
-- [Proyecto 1]([Enlace al proyecto](https://iamamieres.github.io/sprint-calculadora/)) - Calculadora en Html desarrollada con Visual Studio Code.
+- [Calculadora HTML]([Enlace al proyecto](https://iamamieres.github.io/sprint-calculadora/)) - Calculadora en Html desarrollada con Visual Studio Code.
 
 ## Contacto
 ¡Me encantaría conectarte contigo! Puedes encontrarme en las siguientes plataformas:
